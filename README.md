@@ -45,7 +45,7 @@ npm run dev
 
 Open the app in your browser:
 
-http://localhost:5173
+https://paste-saver-lilac.vercel.app/
 
 🖥 Folder Structure
 src/
